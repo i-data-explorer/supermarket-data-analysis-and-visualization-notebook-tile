@@ -1,0 +1,19 @@
+{
+    "title": "Supermarket Data Analysis and Visualization",
+    "description": "Notebook for Supermarket Data Analysis and Visualizatio",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Dataset"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
+    "categories": [
+        "Groceries"
+    ],
+    "git_url": "",
+    "git_commit": "",
+    "installTime": "3 minutes"
+}
