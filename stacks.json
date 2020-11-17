@@ -4,7 +4,7 @@
     "logo": "_images/dataset.png",
     "enabled": true,
     "category_label": [
-        "Dataset"
+        "Notebook"
     ],
     "tag": [
         "CSV"
