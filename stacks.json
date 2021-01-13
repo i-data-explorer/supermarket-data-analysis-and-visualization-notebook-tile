@@ -9,6 +9,7 @@
     "tag": [
         "CSV"
     ],
+    "managed_by": ["Edge"],
     "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
     "categories": [
         "Groceries"
