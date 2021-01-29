@@ -1,5 +1,7 @@
 # Supermarket Data Analysis and Visualization
 
+![](_images/market-image-0.jpg)
+
 ## What is the notebook about?
 This notebook contains analysis and visualization of products sold in a supermarket.
 
