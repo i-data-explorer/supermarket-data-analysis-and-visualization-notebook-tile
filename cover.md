@@ -9,7 +9,7 @@ There aren't any machine learning algorithms used in this notebook, as it only i
 
 ## What is the content of the notebook?
 
-All good analysis begins with questions, and the following questions are explored with their appropriate infographics in this notebook
+All good analysis begins with questions, and the following questions are explored with appropriate infographics in this notebook
 
 * Question 1: What Products Do People Buy The Most?
 * Question 2: Is the Volume of sales Healthy?
